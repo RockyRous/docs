@@ -13,6 +13,7 @@ AlphaCode Academy:
 “segment_description”: “Professionals looking to switch to tech find AlphaCode Academy’s personalized mentorship and flexible scheduling crucial for learning Python effectively.”,
 
 * Это всё что смог уместить в ограниченное по символам поле ввода
+* Перевод моего промпта: "Определите прямых конкурентов моей компании и проведите подробный анализ конкурентов, а также сравнительный анализ конкурентов моей компании. Информация о моей компании:"
 
 ## Ответ от сервиса (Ниже копия в переводе на русский):
 
