@@ -1,5 +1,6 @@
 ## Мой запрос в perplexity.ai:
 * Я для эксперемента решил использовать точно такой же промпт:
+
 Identify my company’s direct competitors and do a detailed competitor analysis as well as a comparative analysis of competitors to my company. My company’s information:
 “company_name”: “AlphaCode Academy”,
 “company_description”: (
