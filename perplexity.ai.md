@@ -15,6 +15,9 @@ AlphaCode Academy:
 
 ## Фишки:
 - Можно экспортить отчет сразу в пдф!
+- Предлагает дополнительное развитие темы:
+![image](https://github.com/user-attachments/assets/b6e040d9-48b7-49a9-b81b-1f97fbe0d60a)
+
 
 ## Ответ perplexity.ai:
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
